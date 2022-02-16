@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Class Project
+parent_type: CourseSection
 parent_uid: d59aa135-ec7a-b233-8048-5d82099b8f0d
 title: 'Assignment 2: How Safe is Safe Enough?'
 uid: cfa7c6e6-d74d-480f-5738-f53d0d66ac20
@@ -84,7 +87,7 @@ Read the newspaper article about Sunstein for a recent example of this debate. W
 
 12.  Individual Responsibility
 
-Approximately 25% of the US population has non-lethal food sensitivity and 1–2% has food allergies severe enough to cause life threatening reactions. Although an individual could be allergic to the proteins in any food, such as fruits, vegetables, and meats, there are eight foods that account for 90% of all food-allergic reactions[i]({{< baseurl >}}/pages/assignments-and-class-project/assignment-2-how-safe-is-safe-enough#i). These are: Milk, egg, peanut, tree nut (walnut, cashew, etc.), fish, shellfish, soy, and wheat. For some consumers, even a trace amount of protein from one of these foods can cause life threatening anaphylactic shock. The _de minimus_ safe level of food protein is not known and experiments to find a safe level are ethically difficult to execute.
+Approximately 25% of the US population has non-lethal food sensitivity and 1–2% has food allergies severe enough to cause life threatening reactions. Although an individual could be allergic to the proteins in any food, such as fruits, vegetables, and meats, there are eight foods that account for 90% of all food-allergic reactions[{{< sup "i" >}}]({{< baseurl >}}/pages/assignments-and-class-project/assignment-2-how-safe-is-safe-enough#i). These are: Milk, egg, peanut, tree nut (walnut, cashew, etc.), fish, shellfish, soy, and wheat. For some consumers, even a trace amount of protein from one of these foods can cause life threatening anaphylactic shock. The _de minimus_ safe level of food protein is not known and experiments to find a safe level are ethically difficult to execute.
 
 Imagine you were an employee in a small food company who is intimately aware of the production practices of this firm. One of your fellow employees comes to you and indicates he heard some other employees discussing a "mistake" regarding allergens made on the night shift. You know the firm has not recovered from the recession and cash is tight. A recall for allergens might be very expensive and put real pressure on the company's finances, causing the future of the firm to be in doubt. You also know that the regulatory environment is not clear with regard to managing allergens in foods.
 
@@ -92,4 +95,4 @@ What do you think should or should not be done? What are some of the options?
 
 What factors could keep the "right" things from being done? How do you establish the behavior expected by employees if you are a manager?
 
-{{< anchor "i" >}}{{< /anchor >}}i[Food Anaphylaxis Action Network](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan)
+{{< sup "{{< anchor \"i\" >}}{{< /anchor >}}i" >}}[Food Anaphylaxis Action Network](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan)

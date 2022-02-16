@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and Class Project
 uid: d59aa135-ec7a-b233-8048-5d82099b8f0d
 ---
@@ -16,7 +18,7 @@ Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt009058
 *   Chapter 2:
 
 1.  Section 2.1: Think of an example (not in the book) of a system that is reliable but not safe, safe but not reliable, conflicting?
-2.  Section 2.3: Chernobyl had a calculated PRA of 10\-9 per year (or a mean time between "failure" of 10,000 years) so what do you think went wrong in the analysis? Or did it? (There is a description of what happened at Chernobyl in Safeware Appendix D, but you do not have to read it to answer the question).
+2.  Section 2.3: Chernobyl had a calculated PRA of 10{{< sup "\\-9" >}} per year (or a mean time between "failure" of 10,000 years) so what do you think went wrong in the analysis? Or did it? (There is a description of what happened at Chernobyl in Safeware Appendix D, but you do not have to read it to answer the question).
 3.  Section 2.5: Consider the hardware definition of failure. Does it make sense to talk about a failure of a pure abstraction like software? In what way could it make sense? In what ways is it different?
 4.  Section 2.7: Why do you think it is so hard for people to let go of the concept of blame?
 5.  Are there any other assumptions of the traditional approaches to safety that you think are no longer always true or additional goals for a new approach to safety?

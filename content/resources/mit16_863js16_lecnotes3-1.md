@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding system safety.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-863j-system-safety-spring-2016/ed4495e833c6ddc73616ae4cd7638620_MIT16_863JS16_LecNotes3-1.pdf
+file: /media/courses/16-863j-system-safety-spring-2016/ed4495e833c6ddc73616ae4cd7638620_MIT16_863JS16_LecNotes3-1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'System Safety: CAST Class Notes'
 uid: ed4495e8-33c6-ddc7-3616-ae4cd7638620
