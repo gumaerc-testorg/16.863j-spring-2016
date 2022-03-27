@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 resourcetype: Document
 title: 'System Safety: Design for Safety'
 uid: 3285d0ec-ac6c-b1ff-5cef-4dbdca5afda2

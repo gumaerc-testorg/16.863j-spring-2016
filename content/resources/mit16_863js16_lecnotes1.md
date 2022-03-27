@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 resourcetype: Document
 title: 'System Safety: Introduction, Causality, Bhopal, Hindsight Bias'
 uid: 3bd61d02-5228-35a8-34be-4b6e245b0961

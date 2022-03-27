@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 resourcetype: Document
 title: 'System Safety: Accident Models, STAMP, Systems Theory'
 uid: 9b08616e-217f-fd3f-afc2-dd1c19fff8be

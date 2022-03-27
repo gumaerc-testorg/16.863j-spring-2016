@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 resourcetype: Document
 title: 'System Safety: Traditional HA Lecture on Quantification'
 uid: 03760d67-bb97-d133-72e3-b7cd6bba6d53

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 resourcetype: Document
 title: 'System Safety: CAST Class Notes'
 uid: ed4495e8-33c6-ddc7-3616-ae4cd7638620
