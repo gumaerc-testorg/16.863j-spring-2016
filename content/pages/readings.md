@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on class topics and readings for each
+  session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -238,7 +240,7 @@ Presentations of Class Projects
 
 Bogdanich, Walt, and Kristina Rebelo. "[New York Times on Radiation Accidents Article](http://www.nytimes.com/2010/12/29/health/29radiation.html?_r=3&)," _The NewYork Times_, December 28, 2010.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)AF 447 Accident Report (PDF - 26.7MB)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf), Final Repot (2012).
+[AF 447 Accident Report (PDF - 26.7MB)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf), Final Repot (2012).
 
 Leveson, Nancy G. "Technical and Managerial Factors in the NASA Challenger and Columbia Losses: Looking Forward to the Future." In _Controveries in Science and Technology Vol. 2: From Climate to Chromosomes_. Edited by Kleinman, Cloud-Hansen, Matta, and Handelsman. Mary Ann Liebert Incorportaion, 2008. ISBN: 9780913113424.
 
@@ -248,18 +250,18 @@ Lowy, Joan. "[AP IMPACT: Automation in the Air Dulls Pilot Skill](http://www.was
 
 [Follensbee on PRA](http://sunnyday.mit.edu/16.863/follensbee.html)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Colonial Pipeline Safety Philosophy (PDF)](http://sunnyday.mit.edu/safer-world/ColonialOpPhilosophy08.pdf)
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Colonial Pipeline Safety Philosophy (PDF)](http://sunnyday.mit.edu/safer-world/ColonialOpPhilosophy08.pdf)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[CAST Analysis of ComAir Accident (PDF)](http://sunnyday.mit.edu/papers/nelson-thesis.pdf)
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[CAST Analysis of ComAir Accident (PDF)](http://sunnyday.mit.edu/papers/nelson-thesis.pdf)
 
 Leveson, Nancy G. "[Applying System Thinking to Analyze and Learn from Events](http://dx.doi.org/10.1016/j.ssci.2009.12.021)." _Safety Science_ 49, no. 1 (2011): 55–64.
 
 ———. "[The Role of Software in Spacecraft Accidents](https://arc.aiaa.org/doi/10.2514/1.11950)." _Journal of Spacecraft and Rockets_ 41, no. 4 (2004): 564–75.
 
-[CAST Tank Overflow Accident (PDF)]({{< baseurl >}}/resources/mit16_863js16_tank_report)
+{{% resource_link 2b634d41-c347-b14e-3ca3-32c82c5983b0 "CAST Tank Overflow Accident (PDF)" %}}
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Black Hawk STPA Analysis (PDF - 1.2MB)](http://sunnyday.mit.edu/papers/AHS-final.pdf)
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Black Hawk STPA Analysis (PDF - 1.2MB)](http://sunnyday.mit.edu/papers/AHS-final.pdf)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Navy System STPA Analysis (PDF - 2.4MB)](http://sunnyday.mit.edu/papers/Navy-Final-Report-2016-Feb-17.pdf)
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Navy System STPA Analysis (PDF - 2.4MB)](http://sunnyday.mit.edu/papers/Navy-Final-Report-2016-Feb-17.pdf)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[HTV Hazard Analysis Paper (PDF - 1.1MB)](http://sunnyday.mit.edu/papers/JSR-paper-published.pdf)
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[HTV Hazard Analysis Paper (PDF - 1.1MB)](http://sunnyday.mit.edu/papers/JSR-paper-published.pdf)
