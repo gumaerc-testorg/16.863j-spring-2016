@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides details on the assignments and class project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and Class Project
 uid: d59aa135-ec7a-b233-8048-5d82099b8f0d
 ---
@@ -8,7 +11,7 @@ uid: d59aa135-ec7a-b233-8048-5d82099b8f0d
 
 Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt0090586/). Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors that contributed to the accident. Do you think there a "root cause"?
 
-**Assignment 2**: Answer the "[How Safe is Safe Enough?]({{< baseurl >}}/pages/assignments-and-class-project/assignment-2-how-safe-is-safe-enough)"
+**Assignment 2**: Answer the "{{% resource_link cfa7c6e6-d74d-480f-5738-f53d0d66ac20 "How Safe is Safe Enough?" %}}"
 
 **Assignment 3**: Answer the reading questions on [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. Chapters 1–3 in _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
@@ -16,7 +19,7 @@ Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt009058
 *   Chapter 2:
 
 1.  Section 2.1: Think of an example (not in the book) of a system that is reliable but not safe, safe but not reliable, conflicting?
-2.  Section 2.3: Chernobyl had a calculated PRA of 10\-9 per year (or a mean time between "failure" of 10,000 years) so what do you think went wrong in the analysis? Or did it? (There is a description of what happened at Chernobyl in Safeware Appendix D, but you do not have to read it to answer the question).
+2.  Section 2.3: Chernobyl had a calculated PRA of 10{{< sup "\-9" >}} per year (or a mean time between "failure" of 10,000 years) so what do you think went wrong in the analysis? Or did it? (There is a description of what happened at Chernobyl in Safeware Appendix D, but you do not have to read it to answer the question).
 3.  Section 2.5: Consider the hardware definition of failure. Does it make sense to talk about a failure of a pure abstraction like software? In what way could it make sense? In what ways is it different?
 4.  Section 2.7: Why do you think it is so hard for people to let go of the concept of blame?
 5.  Are there any other assumptions of the traditional approaches to safety that you think are no longer always true or additional goals for a new approach to safety?
@@ -28,7 +31,7 @@ Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt009058
 
 **Assignment 4**: Accident report
 
-1.  Find at least 2 instances of hindsight bias in the [SBS Tank 731 overflow accident report (PDF)]({{< baseurl >}}/resources/mit16_863js16_tank_report).
+1.  Find at least 2 instances of hindsight bias in the {{% resource_link 2b634d41-c347-b14e-3ca3-32c82c5983b0 "SBS Tank 731 overflow accident report (PDF)" %}}.
 2.  Summarize an accident report (from the list provided below) and answer questions on: What was cause? Is there a chain of events described? Do you see any hindsight bias? Who or what was blamed? Also, summarize the report it in a 5–10 minute presentation. Some of the reports are quite long. For this assignment you should read at least the introduction and conclusions of the report. Include in your presentation the main events, the causes identified in the report, and their recommendations. Did you find any hindsight bias in the report? If you can find a short (under 2 minute) video online about your accident, feel free to include a link to it in your presentation. We'll download any videos to my computer before class. You will do the CAST assignment on this accident.
 
 List of Accidents

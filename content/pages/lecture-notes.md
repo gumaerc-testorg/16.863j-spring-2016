@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of class topics along with the lecture
+  notes for selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a9445a19-782b-4241-b9d8-4faf5b3cd456
 ---
@@ -22,7 +27,7 @@ CLASS TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction, Causality, Bhopal, Hindsight Bias (PDF - 1.5MB)]({{< baseurl >}}/resources/mit16_863js16_lecnotes1)
+{{% resource_link 3bd61d02-5228-35a8-34be-4b6e245b0961 "Introduction, Causality, Bhopal, Hindsight Bias (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +39,7 @@ CLASS TOPICS
 
 
 Part 1—Chapters 1–2 Questions  
-[Accident Models, STAMP, Systems Theory (PDF - 1.8MB)]({{< baseurl >}}/resources/mit16_863js16_lecnotes2)
+{{% resource_link 9b08616e-217f-fd3f-afc2-dd1c19fff8be "Accident Models, STAMP, Systems Theory (PDF - 1.8MB)" %}}
 
 Part 2—Ethics Discussion
 
@@ -47,7 +52,7 @@ Part 2—Ethics Discussion
 3
 {{< tdclose >}}
 {{< tdopen >}}
-CAST and Accident Analysis [(Part 1 CAST Class Notes, PDF - 1.3MB)]({{< baseurl >}}/resources/mit16_863js16_lecnotes3-1) [(Part 2 CAST Analysis, PDF)]({{< baseurl >}}/resources/mit16_863js16_lecnotes3-2)
+CAST and Accident Analysis {{% resource_link ed4495e8-33c6-ddc7-3616-ae4cd7638620 "(Part 1 CAST Class Notes, PDF - 1.3MB)" %}} {{% resource_link 7dc4344e-f259-e4bd-e4ac-c1bb2d578a95 "(Part 2 CAST Analysis, PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ CAST and Accident Analysis [(Part 1 CAST Class Notes, PDF - 1.3MB)]({{< baseurl 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Traditional HA, Lecture on Quantification (PDF - 5.6MB)]({{< baseurl >}}/resources/mit16_863js16_lecnotes4)
+{{% resource_link 03760d67-bb97-d133-72e3-b7cd6bba6d53 "Traditional HA, Lecture on Quantification (PDF - 5.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +70,7 @@ CAST and Accident Analysis [(Part 1 CAST Class Notes, PDF - 1.3MB)]({{< baseurl 
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Systems Theoretic Process Analysis (STPA) Introduction, Basic Components (hazard, constraints, HCS) (PDF)]({{< baseurl >}}/resources/mit16_863js16_lecnotes5)
+{{% resource_link f302ef24-b466-fa80-3e1f-ffc8d24ee7b6 "Systems Theoretic Process Analysis (STPA) Introduction, Basic Components (hazard, constraints, HCS) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +88,7 @@ STPA, How to Do It
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Design for Safety (PDF)]({{< baseurl >}}/resources/mit16_863js16_lecnotes7)
+{{% resource_link 3285d0ec-ac6c-b1ff-5cef-4dbdca5afda2 "Design for Safety (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +115,7 @@ Cyber Security
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Operations, Regulation (PDF)]({{< baseurl >}}/resources/mit16_863js16_lecnotes10)
+{{% resource_link 4f526628-bb02-0fed-f812-5549fca600dc "Operations, Regulation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
