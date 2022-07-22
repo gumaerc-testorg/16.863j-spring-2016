@@ -5,6 +5,7 @@ file: /courses/16-863j-system-safety-spring-2016/03760d67bb97d13372e3b7cd6bba6d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'System Safety: Traditional HA Lecture on Quantification'
 uid: 03760d67-bb97-d133-72e3-b7cd6bba6d53
 ---
 This resource contains information regarding system safety.
-

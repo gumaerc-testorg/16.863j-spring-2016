@@ -5,6 +5,7 @@ file: /courses/16-863j-system-safety-spring-2016/9b08616e217ffd3fafc2dd1c19fff8b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'System Safety: Accident Models, STAMP, Systems Theory'
 uid: 9b08616e-217f-fd3f-afc2-dd1c19fff8be
 ---
 This resource contains information regarding system safety.
-

@@ -5,6 +5,7 @@ file: /courses/16-863j-system-safety-spring-2016/f302ef24b466fa803e1fffc8d24ee7b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'System Safety: Systems Theoretic Process Analysis (STPA) Introduction, B
 uid: f302ef24-b466-fa80-3e1f-ffc8d24ee7b6
 ---
 This resource contains information regarding system safety.
-
