@@ -34,7 +34,7 @@ Topics include:
 There are two textbooks for the class:
 
 *   Leveson, Nancy G. _Safeware: System Safety and Computers_. Addison-Wesley Professional, 1995. ISBN: 9780201119725.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) ———. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a [free download](https://mitpress.mit.edu/9780262016629) from the MIT Press website. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
+*   {{% resource_link "4d4a8de9-c389-42d0-90f2-d73b08709b76" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a {{% resource_link "4d4a8de9-c389-42d0-90f2-d73b08709b76" "free download" %}} from the MIT Press website. \[Preview with {{% resource_link "be46a673-ec4f-4e68-88b0-fd79ed7328ee" "Google Books" %}}\]
 
 In addition, a few other readings will be assigned through out the semester. Our new {{% resource_link 13b84a3c-7b6e-8017-7c2a-eb9ddcef3a62 "STPA Primer (draft)" "#optional" %}} will also be provided for reference, but you are not required to read it.
 
