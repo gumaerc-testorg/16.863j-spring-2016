@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding system safety.
 file: /courses/16-863j-system-safety-spring-2016/2b634d41c347b14e3ca332c82c5983b0_MIT16_863JS16_Tank_Report.pdf
+file_size: 503765
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

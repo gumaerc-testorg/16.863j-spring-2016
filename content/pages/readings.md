@@ -9,9 +9,9 @@ title: Readings
 uid: 13b84a3c-7b6e-8017-7c2a-eb9ddcef3a62
 ---
 
-\[ESW\] = {{% resource_link "4d4a8de9-c389-42d0-90f2-d73b08709b76" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a {{% resource_link "e17edbd5-21d7-4cae-ae2f-f1df8c7d4508" "free download" %}} from the MIT Press website. \[Preview with {{% resource_link "be46a673-ec4f-4e68-88b0-fd79ed7328ee" "Google Books" %}}\]
+\[ESW\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a [free download](http://mitpress.mit.edu/9780262016629) from the MIT Press website. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
-\[Safeware\] = ———. _Safeware: System Safety and Computers_. Addison-Wesley Professional, 1995. ISBN: 9780201119725. \[Preview with {{% resource_link "be46a673-ec4f-4e68-88b0-fd79ed7328ee" "Google Books" %}}\]
+\[Safeware\] = ———. _Safeware: System Safety and Computers_. Addison-Wesley Professional, 1995. ISBN: 9780201119725. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -238,30 +238,30 @@ Presentations of Class Projects
 {{< anchor "optional" >}}{{< /anchor >}}Optional Readings and Materials
 -----------------------------------------------------------------------
 
-Bogdanich, Walt, and Kristina Rebelo. "{{% resource_link "6a80c954-8a67-412f-9ef7-f0dcfdc0bc59" "New York Times on Radiation Accidents Article" %}}," _The NewYork Times_, December 28, 2010.
+Bogdanich, Walt, and Kristina Rebelo. "[New York Times on Radiation Accidents Article](http://www.nytimes.com/2010/12/29/health/29radiation.html?_r=3&)," _The NewYork Times_, December 28, 2010.
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "AF 447 Accident Report (PDF - 26.7MB)" %}}, Final Repot (2012).
+[AF 447 Accident Report (PDF - 26.7MB)](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf), Final Repot (2012).
 
 Leveson, Nancy G. "Technical and Managerial Factors in the NASA Challenger and Columbia Losses: Looking Forward to the Future." In _Controveries in Science and Technology Vol. 2: From Climate to Chromosomes_. Edited by Kleinman, Cloud-Hansen, Matta, and Handelsman. Mary Ann Liebert Incorportaion, 2008. ISBN: 9780913113424.
 
-Dekker. "{{% resource_link "3a627ea6-7d56-41fd-9a44-0c702a290ced" "Just Culture: Who Gets to Draw the Line?" %}}." Cognition, Technology & Work 11, no. 3 (2009): 177–85.
+Dekker. "[Just Culture: Who Gets to Draw the Line?](http://dx.doi.org/10.1007/s10111-008-0110-7)." Cognition, Technology & Work 11, no. 3 (2009): 177–85.
 
-Lowy, Joan. "{{% resource_link "4f8ff5ce-d53d-4d63-8f9a-f88205c3cb32" "AP IMPACT: Automation in the Air Dulls Pilot Skill" %}}," _The Washington Times_, August 30, 2011. (Impact of Computers on Pilot Error)
+Lowy, Joan. "[AP IMPACT: Automation in the Air Dulls Pilot Skill](http://www.washingtontimes.com/news/2011/aug/30/ap-impact-automation-in-the-air-dulls-pilot-skill/)," _The Washington Times_, August 30, 2011. (Impact of Computers on Pilot Error)
 
-{{% resource_link "66ec09cd-7a41-4a98-974b-b015c685fbfb" "Follensbee on PRA" %}}
+[Follensbee on PRA](http://sunnyday.mit.edu/16.863/follensbee.html)
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "" %}}{{% resource_link "409170f9-527f-4eef-8fd0-8e2315f1a767" "Colonial Pipeline Safety Philosophy (PDF)" %}}
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Colonial Pipeline Safety Philosophy (PDF)](http://sunnyday.mit.edu/safer-world/ColonialOpPhilosophy08.pdf)
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "" %}}{{% resource_link "ed6cfd19-95b3-4ef9-a11f-861834eab868" "CAST Analysis of ComAir Accident (PDF)" %}}
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[CAST Analysis of ComAir Accident (PDF)](http://sunnyday.mit.edu/papers/nelson-thesis.pdf)
 
-Leveson, Nancy G. "{{% resource_link "bfa4e947-5d3c-4970-ae8d-198e92e50681" "Applying System Thinking to Analyze and Learn from Events" %}}." _Safety Science_ 49, no. 1 (2011): 55–64.
+Leveson, Nancy G. "[Applying System Thinking to Analyze and Learn from Events](http://dx.doi.org/10.1016/j.ssci.2009.12.021)." _Safety Science_ 49, no. 1 (2011): 55–64.
 
-———. "{{% resource_link "39273322-82ab-4d56-acca-5c062ed53fef" "The Role of Software in Spacecraft Accidents" %}}." _Journal of Spacecraft and Rockets_ 41, no. 4 (2004): 564–75.
+———. "[The Role of Software in Spacecraft Accidents](https://arc.aiaa.org/doi/10.2514/1.11950)." _Journal of Spacecraft and Rockets_ 41, no. 4 (2004): 564–75.
 
 {{% resource_link 2b634d41-c347-b14e-3ca3-32c82c5983b0 "CAST Tank Overflow Accident (PDF)" %}}
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "" %}}{{% resource_link "85a3b50d-f5e7-4b70-a74a-a60f9357bc77" "Black Hawk STPA Analysis (PDF - 1.2MB)" %}}
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Black Hawk STPA Analysis (PDF - 1.2MB)](http://sunnyday.mit.edu/papers/AHS-final.pdf)
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "" %}}{{% resource_link "91dc118c-b269-427e-8689-5ac144c3cacd" "Navy System STPA Analysis (PDF - 2.4MB)" %}}
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[Navy System STPA Analysis (PDF - 2.4MB)](http://sunnyday.mit.edu/papers/Navy-Final-Report-2016-Feb-17.pdf)
 
-{{% resource_link "04969eb5-70a7-4f56-89c0-00627bde4cc7" "" %}}{{% resource_link "fc385349-c29f-4907-9930-575f3ee1a060" "HTV Hazard Analysis Paper (PDF - 1.1MB)" %}}
+[](https://www.bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf)[HTV Hazard Analysis Paper (PDF - 1.1MB)](http://sunnyday.mit.edu/papers/JSR-paper-published.pdf)
