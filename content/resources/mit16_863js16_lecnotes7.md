@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding system safety.
-file: /courses/16-863j-system-safety-spring-2016/3285d0ecac6cb1ff5cef4dbdca5afda2_MIT16_863JS16_LecNotes7.pdf
+file: /ol-ocw-studio-app/courses/16-863j-system-safety-spring-2016/3285d0ecac6cb1ff5cef4dbdca5afda2_MIT16_863JS16_LecNotes7.pdf
 file_size: 721611
 file_type: application/pdf
 learning_resource_types:
